@@ -32,11 +32,9 @@
   </div>
 
    <h1> Thankyou, Happy Learning ---- Updated content</h1>
-<<<<<<< HEAD
    <h1>updated from local system in git and merged branch on git</h1>
-   <h1>practice on git push</h1>
-=======
->>>>>>> parent of 47a7710 (updated in index for new line at end)
+   <h1>practice on git push----reverts</h1>
+   <h1>changes made from branch master1 practice on git push</h1>
 
   
 </form>
